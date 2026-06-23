@@ -1125,7 +1125,7 @@
         ]
       }
     },
-    "011": {
+    "009.5": {
       "title": "Cap 009.5 - Volume 2 Extras",
       "volume": "",
       "last_updated": "1782187015",
@@ -1145,7 +1145,7 @@
         ]
       }
     },
-    "010": {
+    "009": {
       "title": "Cap 009 - Reconhecimento",
       "volume": "",
       "last_updated": "1782187003",
@@ -1182,7 +1182,7 @@
         ]
       }
     },
-    "009": {
+    "008": {
       "title": "Cap 008 - Punição",
       "volume": "",
       "last_updated": "1782186968",
@@ -1230,7 +1230,7 @@
         ]
       }
     },
-    "008": {
+    "007": {
       "title": "Cap 007 - Confinamento",
       "volume": "",
       "last_updated": "1782186921",
@@ -1267,7 +1267,7 @@
         ]
       }
     },
-    "007": {
+    "006": {
       "title": "Cap 006 - Compatível",
       "volume": "",
       "last_updated": "1782186888",
@@ -1320,7 +1320,7 @@
         ]
       }
     },
-    "006": {
+    "005": {
       "title": "Cap 005 - Sobrecarregado",
       "volume": "",
       "last_updated": "1782186838",
@@ -1363,7 +1363,7 @@
         ]
       }
     },
-    "005": {
+    "004": {
       "title": "Cap 004 - Fuga [Eremita Scan]",
       "volume": "",
       "last_updated": "1782186798",
@@ -1410,7 +1410,7 @@
         ]
       }
     },
-    "004": {
+    "003": {
       "title": "Cap 003 - As Manchas nas Paredes [Eremita Scan]",
       "volume": "",
       "last_updated": "1782186753",
@@ -1445,7 +1445,7 @@
         ]
       }
     },
-    "003": {
+    "002": {
       "title": "Cap 002 - Jericó [Eremita Scan]",
       "volume": "",
       "last_updated": "1782186716",
@@ -1503,67 +1503,6 @@
           "https://images2.imgbox.com/5f/ad/Y0Ljxpur_o.jpg",
           "https://images2.imgbox.com/40/e0/yCKRiGQL_o.jpg",
           "https://images2.imgbox.com/01/1a/8fEQ1wRY_o.jpg"
-        ]
-      }
-    },
-    "002": {
-      "title": "Cap 001 - Invasão [Skipper Scans]",
-      "volume": "",
-      "last_updated": "1782181569",
-      "groups": {
-        "Default": [
-          "https://images2.imgbox.com/52/b6/BRDNQYFE_o.jpg",
-          "https://images2.imgbox.com/16/72/GT1xTEvs_o.jpg",
-          "https://images2.imgbox.com/ac/f0/L9RKpAgX_o.jpg",
-          "https://images2.imgbox.com/4f/c5/m1ttuzRo_o.jpg",
-          "https://images2.imgbox.com/d1/e0/CrLTti78_o.jpg",
-          "https://images2.imgbox.com/a5/2b/ZiyFdDQO_o.jpg",
-          "https://images2.imgbox.com/75/ec/WtizYY3L_o.jpg",
-          "https://images2.imgbox.com/87/30/lLNZddZy_o.jpg",
-          "https://images2.imgbox.com/35/20/KrZZCbJ8_o.jpg",
-          "https://images2.imgbox.com/11/2c/ZaHnP0Yn_o.jpg",
-          "https://images2.imgbox.com/d6/56/2bNfvdlV_o.jpg",
-          "https://images2.imgbox.com/e1/c8/fwgStBm4_o.jpg",
-          "https://images2.imgbox.com/be/7e/aPqWw1SU_o.jpg",
-          "https://images2.imgbox.com/1b/b9/qqLBIr1S_o.jpg",
-          "https://images2.imgbox.com/0b/77/DdTkIKzd_o.jpg",
-          "https://images2.imgbox.com/05/ea/bun2JPIw_o.jpg",
-          "https://images2.imgbox.com/b3/f9/NKIa7FpV_o.jpg",
-          "https://images2.imgbox.com/17/b3/FjNgUZrU_o.jpg",
-          "https://images2.imgbox.com/37/76/2vPL8xqG_o.jpg",
-          "https://images2.imgbox.com/35/2f/bZOvS3y6_o.jpg",
-          "https://images2.imgbox.com/83/e1/f5lsiVAK_o.jpg",
-          "https://images2.imgbox.com/64/fa/FRdBa0Sh_o.jpg",
-          "https://images2.imgbox.com/19/c9/KS5xvS28_o.jpg",
-          "https://images2.imgbox.com/ab/03/nG7aqdA9_o.jpg",
-          "https://images2.imgbox.com/00/77/Fbrv5NvL_o.jpg",
-          "https://images2.imgbox.com/49/5f/H2dA8xkm_o.jpg",
-          "https://images2.imgbox.com/41/8e/HX58WuRg_o.jpg",
-          "https://images2.imgbox.com/0e/de/zqWJMp8J_o.jpg",
-          "https://images2.imgbox.com/14/e8/KhFQ34Us_o.jpg",
-          "https://images2.imgbox.com/f3/6c/r7G52M3b_o.jpg",
-          "https://images2.imgbox.com/90/ec/ibS5uO1v_o.jpg",
-          "https://images2.imgbox.com/c0/f7/ssAMrQ9B_o.jpg",
-          "https://images2.imgbox.com/f4/9b/QTDOBZbw_o.jpg",
-          "https://images2.imgbox.com/13/bc/41ei9tdo_o.jpg",
-          "https://images2.imgbox.com/b0/79/9m3gXNaT_o.jpg",
-          "https://images2.imgbox.com/83/64/NccLS88u_o.jpg",
-          "https://images2.imgbox.com/98/48/jAZp93cF_o.jpg",
-          "https://images2.imgbox.com/af/e2/aY91RBYy_o.jpg",
-          "https://images2.imgbox.com/57/08/H2XaArqu_o.jpg",
-          "https://images2.imgbox.com/56/97/H5NSzYm6_o.jpg",
-          "https://images2.imgbox.com/60/8e/WzkzngtL_o.jpg",
-          "https://images2.imgbox.com/76/23/9tvNTybQ_o.jpg",
-          "https://images2.imgbox.com/aa/b7/RMAomO00_o.jpg",
-          "https://images2.imgbox.com/a8/fe/PqytxjPW_o.jpg",
-          "https://images2.imgbox.com/dc/d5/gDDDxHKF_o.jpg",
-          "https://images2.imgbox.com/d8/8c/AAVkGjqW_o.jpg",
-          "https://images2.imgbox.com/c8/66/pjTrrRJG_o.jpg",
-          "https://images2.imgbox.com/ca/6b/4wAruMfV_o.jpg",
-          "https://images2.imgbox.com/36/d5/QR78gAU0_o.jpg",
-          "https://images2.imgbox.com/7d/64/elZoVS1x_o.jpg",
-          "https://images2.imgbox.com/03/2e/0MqqneQj_o.jpg",
-          "https://images2.imgbox.com/47/d3/Eum5AvhM_o.jpg"
         ]
       }
     },
