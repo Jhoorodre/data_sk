@@ -1,12 +1,12 @@
 {
-  "title": "Tower Dungeon - Morro dos Scans",
+  "title": "Tower Dungeon",
   "description": "O cenário é um certo reino. Para salvar a princesa sequestrada do reino, o esquadrão da Guarda Real desafia a \"Torre do Dragão\", uma estrutura gigantesca flutuando no meio do céu, mas são bloqueados por poderosos demônios. Uma provocação é feita por uma aldeia vizinha para reabastecer os feridos, e quando um jovem é enviado para a torre, a roda do destino começa a girar.",
   "artist": "Nihei Tsutomu",
   "author": "Nihei Tsutomu",
   "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx170399-YYy0AhHxo8xt.jpg",
   "status": "Em Andamento",
   "chapters": {
-    "028": {
+    "026": {
       "title": "Cap 026 - A Pedra que Conecta Vidas e o Anel que Liga Mentes",
       "volume": "",
       "last_updated": "1782191384",
@@ -43,7 +43,7 @@
         ]
       }
     },
-    "027": {
+    "025": {
       "title": "Cap 025 - O Reino em Crise e Aqueles Ascendendo a Torre do Dragão",
       "volume": "",
       "last_updated": "1782191347",
@@ -85,7 +85,7 @@
         ]
       }
     },
-    "026": {
+    "024": {
       "title": "Cap 024 - O Reino em Crise e Aqueles Ascendendo a Torre do Dragão",
       "volume": "",
       "last_updated": "1782191304",
@@ -121,7 +121,7 @@
         ]
       }
     },
-    "025": {
+    "024": {
       "title": "Cap 024 - O Atroz Dragão Ancião e o Escudo do Guardião",
       "volume": "",
       "last_updated": "1782191269",
@@ -157,7 +157,7 @@
         ]
       }
     },
-    "024": {
+    "023": {
       "title": "Cap 023 - O Segundo Esquadrão de Resgate da Princesa e o Deus Exorcista de uma Terra Distante",
       "volume": "",
       "last_updated": "1782191234",
@@ -195,7 +195,7 @@
         ]
       }
     },
-    "023": {
+    "022": {
       "title": "Cap 022 - A Linhagem dos Dragões e o Juramento do Martelo",
       "volume": "",
       "last_updated": "1782191198",
@@ -238,7 +238,7 @@
         ]
       }
     },
-    "022": {
+    "021": {
       "title": "Cap 021 - O Destino Oscilando na Sombra da Lua",
       "volume": "",
       "last_updated": "1782191151",
@@ -280,7 +280,7 @@
         ]
       }
     },
-    "021": {
+    "020": {
       "title": "Cap 020 - Os Gigantescos Guardiões da Torre e o Poder de Recusar o Chão",
       "volume": "",
       "last_updated": "1782191113",
@@ -324,7 +324,7 @@
         ]
       }
     },
-    "020": {
+    "019.2": {
       "title": "Cap 019.2 - A Noiva Cândida e a Sombra da Corrupção (2)",
       "volume": "",
       "last_updated": "1782191070",
@@ -363,7 +363,7 @@
         ]
       }
     },
-    "019": {
+    "019.1": {
       "title": "Cap 019.1 - A Noiva Cândida e a Sombra da Corrupção",
       "volume": "",
       "last_updated": "1782191032",
