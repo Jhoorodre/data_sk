@@ -1,12 +1,12 @@
 {
-  "title": "MAD - Eremita Scan",
+  "title": "MAD",
   "description": "Misteriosas formas de vida alienígenas invadem a Terra! A maior parte da humanidade foi varrida da face do planeta. John, sua irmã e os sobreviventes restantes esperam encontrar um novo mundo para habitar... Mas um dia, eles são alvo de alienígenas novamente!",
   "artist": "Ootori Yuusuke",
   "author": "Ootori Yuusuke",
   "cover": "https://s4.anilist.co/file/anilistcdn/media/manga/cover/large/bx178096-PTBfdDYzRqGu.png",
   "status": "Em Andamento",
   "chapters": {
-    "043": {
+    "037": {
       "title": "Cap 037 - Sangue e Pus",
       "volume": "",
       "last_updated": "1782188063",
@@ -40,7 +40,7 @@
         ]
       }
     },
-    "042": {
+    "036": {
       "title": "Cap 036 - Razão de Ser",
       "volume": "",
       "last_updated": "1782188027",
@@ -75,7 +75,7 @@
         ]
       }
     },
-    "041": {
+    "035": {
       "title": "Cap 035 - Impotência",
       "volume": "",
       "last_updated": "1782187991",
@@ -106,7 +106,7 @@
         ]
       }
     },
-    "040": {
+    "034": {
       "title": "Cap 034 - Da Escuridão",
       "volume": "",
       "last_updated": "1782187960",
@@ -139,7 +139,7 @@
         ]
       }
     },
-    "039": {
+    "033": {
       "title": "Cap 033 - Incursão",
       "volume": "",
       "last_updated": "1782187928",
@@ -175,7 +175,7 @@
         ]
       }
     },
-    "038": {
+    "032": {
       "title": "Cap 032 - Yazur",
       "volume": "",
       "last_updated": "1782187894",
@@ -209,7 +209,7 @@
         ]
       }
     },
-    "037": {
+    "031.5": {
       "title": "Cap 031.5 - Leon, Diana e Eu 2",
       "volume": "",
       "last_updated": "1782187847",
@@ -227,7 +227,7 @@
         ]
       }
     },
-    "036": {
+    "031": {
       "title": "Cap 031 - Treinamento Especial",
       "volume": "",
       "last_updated": "1782187828",
@@ -262,7 +262,7 @@
         ]
       }
     },
-    "035": {
+    "030": {
       "title": "Cap 030 - Um Novo Refúgio",
       "volume": "",
       "last_updated": "1782187795",
@@ -297,7 +297,7 @@
         ]
       }
     },
-    "034": {
+    "029.5": {
       "title": "Cap 029.5 - Volume 5 Extras",
       "volume": "",
       "last_updated": "1782187765",
@@ -317,7 +317,7 @@
         ]
       }
     },
-    "033": {
+    "029": {
       "title": "Cap 029 - É o seu Fim",
       "volume": "",
       "last_updated": "1782187750",
@@ -349,7 +349,7 @@
         ]
       }
     },
-    "032": {
+    "028": {
       "title": "Cap 028 - Pano",
       "volume": "",
       "last_updated": "1782187721",
@@ -384,7 +384,7 @@
         ]
       }
     },
-    "031": {
+    "027": {
       "title": "Cap 027 - John VS Alda",
       "volume": "",
       "last_updated": "1782187690",
@@ -417,7 +417,7 @@
         ]
       }
     },
-    "030": {
+    "026": {
       "title": "Cap 026 - Corrompidos",
       "volume": "",
       "last_updated": "1782187660",
@@ -450,7 +450,7 @@
         ]
       }
     },
-    "029": {
+    "025": {
       "title": "Cap 025 - O Cheiro da Brisa do Mar",
       "volume": "",
       "last_updated": "1782187629",
@@ -484,7 +484,7 @@
         ]
       }
     },
-    "028": {
+    "024.5": {
       "title": "Cap 024.5 - Leon, Diana e Eu",
       "volume": "",
       "last_updated": "1782187600",
@@ -504,7 +504,7 @@
         ]
       }
     },
-    "027": {
+    "024": {
       "title": "Cap 024 - 999",
       "volume": "",
       "last_updated": "1782187583",
@@ -536,7 +536,7 @@
         ]
       }
     },
-    "026": {
+    "023": {
       "title": "Cap 023 - Metade para cada Um",
       "volume": "",
       "last_updated": "1782187556",
@@ -575,7 +575,7 @@
         ]
       }
     },
-    "025": {
+    "022": {
       "title": "Cap 022 - Floresta de Rolodov",
       "volume": "",
       "last_updated": "1782187521",
@@ -614,7 +614,7 @@
         ]
       }
     },
-    "024": {
+    "021.5": {
       "title": "Cap 021.5 - Gráfico de Estatísticas do Personagem",
       "volume": "",
       "last_updated": "1782187481",
@@ -635,7 +635,7 @@
         ]
       }
     },
-    "023": {
+    "021": {
       "title": "Cap 021 - Grius",
       "volume": "",
       "last_updated": "1782187457",
@@ -669,7 +669,7 @@
         ]
       }
     },
-    "022": {
+    "020": {
       "title": "Cap 020 - Além do Ninho",
       "volume": "",
       "last_updated": "1782187425",
@@ -711,7 +711,7 @@
         ]
       }
     },
-    "021": {
+    "019": {
       "title": "Cap 019 - Ódio",
       "volume": "",
       "last_updated": "1782187388",
@@ -747,7 +747,7 @@
         ]
       }
     },
-    "020": {
+    "018": {
       "title": "Cap 018 - A Decisão de Bob",
       "volume": "",
       "last_updated": "1782187355",
@@ -787,7 +787,7 @@
         ]
       }
     },
-    "019": {
+    "017": {
       "title": "Cap 017 - Saque Rápido",
       "volume": "",
       "last_updated": "1782187318",
@@ -832,7 +832,7 @@
         ]
       }
     },
-    "018": {
+    "016": {
       "title": "Cap 016 - Destruição",
       "volume": "",
       "last_updated": "1782187281",
@@ -872,7 +872,7 @@
         ]
       }
     },
-    "017": {
+    "015": {
       "title": "Cap 015 - Massacre",
       "volume": "",
       "last_updated": "1782187242",
@@ -909,7 +909,7 @@
         ]
       }
     },
-    "016": {
+    "014": {
       "title": "Cap 014 - Despertar",
       "volume": "",
       "last_updated": "1782187209",
@@ -944,7 +944,7 @@
         ]
       }
     },
-    "015": {
+    "013": {
       "title": "Cap 013 - Acabe com Ele",
       "volume": "",
       "last_updated": "1782187179",
@@ -987,7 +987,7 @@
         ]
       }
     },
-    "014": {
+    "012": {
       "title": "Cap 012 - Ritual de Boa Sorte",
       "volume": "",
       "last_updated": "1782187140",
@@ -1045,7 +1045,7 @@
         ]
       }
     },
-    "013": {
+    "011": {
       "title": "Cap 011 - Mulheres",
       "volume": "",
       "last_updated": "1782187088",
@@ -1074,7 +1074,7 @@
         ]
       }
     },
-    "012": {
+    "010": {
       "title": "Cap 010 - Com Chifres",
       "volume": "",
       "last_updated": "1782187064",
